@@ -1,4 +1,4 @@
-binding.pry
+
 
 def unsafe?(speed)
 	speed = 40
